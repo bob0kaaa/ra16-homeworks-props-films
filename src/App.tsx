@@ -1,5 +1,5 @@
 import './App.css'
-import Stars from "./components/Stars.jsx";
+import Stars from "./components/Stars";
 
 function App() {
 
